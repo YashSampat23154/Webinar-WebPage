@@ -1,2 +1,2 @@
-# A WebPage containing the source code of Talkdown in the Lockdown Webinar.
+#The Source Code of Talkdown in the Lockdown Webinar.
 IEEE APSIT SB brings you a fun and informative way to tackle the lockdown boredom - Talkdown in the Lockdown, a 5-day webinar series, where you will get the opportunity to attend live sessions by industry professionals on a wide range of technical and non-technical topics.Join us in this amazing series of webinars held from April 20 - April 24.
